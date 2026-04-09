@@ -1,3 +1,7 @@
+
+print ("Hola mundo")
+print('Hola python')
+
 #INICIANDO ALGO NUEVO
 """
  Este es un 
@@ -11,6 +15,3 @@ Este tambien es
 un comentario de
 varias lineas
 '''
-
-print ("Hola mundo")
-print('Hola python')

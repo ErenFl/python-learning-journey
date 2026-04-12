@@ -28,5 +28,8 @@ print(variable_str)
 variable_int_to_variable_str = str(variable_int)
 print(variable_int_to_variable_str, type(variable_int_to_variable_str))
 
-variable_char = "g"
+variable_char = "Hola"
 print(variable_char)
+
+#Combinar texto con cadenas con variables, con el operador +, por ejemplo:
+print("Estos son numeros enteros: " + variables_int)

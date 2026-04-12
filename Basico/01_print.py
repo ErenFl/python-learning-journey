@@ -27,6 +27,14 @@ print("Pero yo sé que un día \nme odiara por las mismas razones")
 '''Correcto ---->''' 
 print("\\")
 
+#Tambien se usa cuando:
+'''Incorrecto ---->''' #print("Hola me llamo "Juan Martinez"")
+'''Correcto ---->''' 
+print("Hola me llamo \"Juan Martinez\"")
+print("Hola me llamo 'Juan Martinez'")
+print("Hola me llamo Juan\'s Martinez")
+
+
 #Usando múltiples argumentos
 print("Hola","como","te fue hoy") 
 

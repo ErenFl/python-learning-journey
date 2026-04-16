@@ -19,7 +19,7 @@ print(0x123)
 #Flotantes
 
 #Notacion Cientifica
-''' 3 x 10^8 =300000000
+''' En python nunca se coloca asi "3 x 10^8" =300000000
 Tambien se puede lograr con = 3E8
 La letra  E o e - proviene de la palabra exponente,
 la cual significa por diez a la n potencia

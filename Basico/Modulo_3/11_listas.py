@@ -1,4 +1,6 @@
-'''  Los elementos dentro de una lista pueden tener diferentes tipos. 
+'''  Una lista es Es una colección ordenada y mutable de elementos separados por comas 
+entre corchetes.
+Los elementos dentro de una lista pueden tener diferentes tipos. 
 Algunos de ellos pueden ser enteros, otros son flotantes y otros pueden ser listas'''
 
 numbers = [10, 5, 7, 2, 1]

@@ -5,7 +5,7 @@ numbers = [111, 7, 2, 1]
 print("Longitud original: ", len(numbers))
 print("Lista original: ",numbers)
 
-#list.append(value)
+#list.append(value) /// append solo agrega UN ELEMENTO cada vez
 numbers.append(4) #Inserta el 4 al final de la lista
 
 print("Longitud nueva: ",len(numbers))
